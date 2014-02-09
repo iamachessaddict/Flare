@@ -7,8 +7,6 @@
     <uses-sdk
         android:minSdkVersion="11"
         android:targetSdkVersion="18" /> 
-    <!-- Darren's comment here! -->
-	<!-- Isabel's comment here! -->
 
     <application
         android:allowBackup="true"
@@ -25,7 +23,5 @@
             </intent-filter>
         </activity>
     </application>
-    
-    <!-- Another of Darren's comments. -->
 
 </manifest>
