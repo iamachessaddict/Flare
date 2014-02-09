@@ -7,6 +7,7 @@
     <uses-sdk
         android:minSdkVersion="11"
         android:targetSdkVersion="18" />
+    <!-- Darren's comment here! -->
 
     <application
         android:allowBackup="true"
