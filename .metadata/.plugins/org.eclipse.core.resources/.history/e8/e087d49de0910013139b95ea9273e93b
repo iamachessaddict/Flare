@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
         return true;
     }
     
-    //Zheng's edit, edited again
+    //Zheng's edit, edited
     
     //Darren's edit is COOLER!
     
