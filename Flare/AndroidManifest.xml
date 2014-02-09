@@ -25,5 +25,7 @@
             </intent-filter>
         </activity>
     </application>
+    
+    <!-- Another of Darren's comments. -->
 
 </manifest>
