@@ -18,5 +18,5 @@ public class MainActivity extends Activity {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
-    //Zheng wants to see if his commits will show up on github
+    
 }
