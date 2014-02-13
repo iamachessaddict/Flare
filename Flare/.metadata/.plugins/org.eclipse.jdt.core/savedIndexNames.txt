@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+/Users/zhengzhu/Documents/Flare/.metadata/.plugins/org.eclipse.jdt.core
-1121403313.index
-2294275238.index
-3763957438.index
